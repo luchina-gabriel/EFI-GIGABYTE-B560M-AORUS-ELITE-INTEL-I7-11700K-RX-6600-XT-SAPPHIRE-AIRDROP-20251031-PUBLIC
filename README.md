@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte B560M Aorus Elite, Intel Core i7-11700K, 32Gb DDR4 (4x 8Gb), AMD Radeon RX 6600 XT
 
+<img width="1988" height="1186" alt="Portfolio" src="https://github.com/user-attachments/assets/16fc1574-8029-42a6-8ae5-f1fcd28d5c80" />
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.7.1)
